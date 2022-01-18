@@ -1,4 +1,4 @@
-### Currently interested in Python 🐍 and JavaScript ☕
+### Currently interested in Python :snake: and JavaScript / TypeScript :octocat:
 
 <!--
 **sczech/sczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
